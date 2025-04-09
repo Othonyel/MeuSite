@@ -75,6 +75,10 @@ p {
     border-radius: 10px;
 }
 
+.instrumentos {
+    
+}
+
 @media (max-width: 768px) {
     .conteudo-beneficios {
         flex-direction: column;
